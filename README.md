@@ -35,10 +35,11 @@ Consumers with “House” dwelling.type are most likely to continue the House I
 ### Marital status vs cancel
 ![image](https://user-images.githubusercontent.com/82319213/218241848-50263f8b-6c76-4422-8de7-a558c3718761.png)
 
-Married policyholders are most likely to continue tZone-4 (Virginia) policyholders are mostly canceling policies.
-Policy holders from Arizona, Washington, and Iowa can be convinced from cancelling.
+Married policyholders are most likely to continue the policy than unmarried holders.
+
+
   
-![image](https://user-images.githubusercontent.com/82319213/218241911-83b3d3d6-1690-464e-9d3d-82d066c4c6a2.png)he policy than unmarried holders.
+
 
 ### Claim.ind vs cancel
 ![image](https://user-images.githubusercontent.com/82319213/218241876-d146f7f7-b6db-4a16-96cd-2d6452fcd483.png)
@@ -47,7 +48,7 @@ Policy holders without claims are most likely to continue the policy.
 ![image](https://user-images.githubusercontent.com/82319213/218241905-20e679bd-b96d-4d7f-87ad-6d705de6d289.png)
 Zone-4 (Virginia) policyholders are mostly canceling policies.
 Policy holders from Arizona, Washington, and Iowa can be convinced from cancelling.
-![image](https://user-images.githubusercontent.com/82319213/218241921-122b7695-2cc8-4172-b339-e37ab88944dc.png)
+
 
 ### Family size vs cancel
 ![image](https://user-images.githubusercontent.com/82319213/218241944-a1aaa33d-5e61-4c4d-94de-a5d8b66b39ac.png)
